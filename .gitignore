@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea
+SampleApi.iml
+target
+/src/main/webapp/typings/
+/src/main/webapp/node_modules/
+/src/main/webapp/app/main.js.map
+/src/main/webapp/app/app.component.js.map
+/src/main/webapp/app/app.module.js
+/src/main/webapp/app/app.module.js.map
+/src/main/webapp/app/main.js
+/src/main/webapp/app/app.component.js
